@@ -1,3 +1,5 @@
-# furry-meme
+# ricee/vim-setup
 
-This is my vimrc file and I am putting it here to get my head around how this thing that is not subversion works :)
+Verson controlling my vim set up to my head around how this thing that is not subversion works :)
+
+
